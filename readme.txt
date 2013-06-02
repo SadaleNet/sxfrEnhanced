@@ -1,6 +1,6 @@
 This program was written by Tomas Pettersson, and modified by Wong Cho Ching.
 The modified version is named sfxr enhanced.
-Wong Cho Ching disclaim his copyright ownership on this software. The following is the original readme.txt of the unmodified version of sfxr, which contains the original license.
+Wong Cho Ching disclaim his copyright ownership on this software. However, Tomas Pettersson is still holding the copyright of this software. The following is the original readme.txt of the unmodified version of sfxr, which contains the original license.
 
 (http://www.drpetter.se/project_sfxr.html)
 
